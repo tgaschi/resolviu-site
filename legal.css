@@ -9,3 +9,6 @@ h2 { font-size: 1.15rem; margin: 28px 0 8px; }
 .meta { color: var(--muted); font-size: 0.9rem; }
 a { color: var(--link); }
 ul { padding-left: 1.2em; }
+.brand { display: flex; align-items: center; gap: 14px; margin-bottom: 8px; }
+.brand img { border-radius: 14px; }
+.brand h1 { margin: 0; }
